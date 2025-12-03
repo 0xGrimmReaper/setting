@@ -25,7 +25,7 @@ NOTES TODO
 
 ---
 
-#### OpenCode
+## OpenCode
 
 `opencode run "Prompt"`
 -- continue or -c
